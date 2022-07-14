@@ -1,0 +1,22 @@
+[
+	{
+		"name": "lapicera",
+		"precio": "20",
+		"id": 1
+	},
+	{
+		"name": "cartuchera",
+		"precio": "20",
+		"id": 2
+	},
+	{
+		"name": "fibra",
+		"precio": "15",
+		"id": 3
+	},
+	{
+		"name": "papel",
+		"precio": "25",
+		"id": 4
+	}
+]
