@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Perico",
+		"especie": "Loro",
+		"id": 1
+	},
+	{
+		"name": "Patitas",
+		"especie": "Perro",
+		"id": 3
+	},
+	{
+		"name": "Orejitas",
+		"especie": "Gato",
+		"id": 4
+	}
+]
