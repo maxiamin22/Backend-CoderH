@@ -1,0 +1,26 @@
+[
+	{
+		"tittle": "medias",
+		"price": "usd5",
+		"thumbnail": "https://www.dexter.com.ar/hombre/calzado?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FvEJzphxkfDDMy_S2pZ-oAPBE4eXGARYYc6KpKgw_CafvbZMLMVREaArJaEALw_wcB",
+		"id": 1
+	},
+	{
+		"tittle": "remera",
+		"price": "usd10",
+		"thumbnail": "https://www.dexter.com.ar/hombre/calzado?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FvEJzphxkfDDMy_S2pZ-oAPBE4eXGARYYc6KpKgw_CafvbZMLMVREaArJaEALw_wcB",
+		"id": 3
+	},
+	{
+		"title": "buzo",
+		"prices": "250usd",
+		"thumbnail": "https://www.dexter.com.ar/hombre/calzado?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FvEJzphxkfDDMy_S2pZ-oAPBE4eXGARYYc6KpKgw_CafvbZMLMVREaArJaEALw_wcB",
+		"id": 4
+	},
+	{
+		"title": "pelota",
+		"prices": "usd6",
+		"thumbnail": "https://www.dexter.com.ar/hombre/calzado?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FvEJzphxkfDDMy_S2pZ-oAPBE4eXGARYYc6KpKgw_CafvbZMLMVREaArJaEALw_wcB",
+		"id": 5
+	}
+]
