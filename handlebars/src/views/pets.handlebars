@@ -1,0 +1,12 @@
+<div>
+    <h1>Hola {{name}}! aqui estan las mascotas para adoptar</h1>
+    {{#each pets}}
+        <div class="petCard">
+            <p>{{this.name}}</p>
+            <p>{{this.specie}}</p>
+            <p>{{this.age}}</p>
+            <img src="http://localhost:8080/img/{{this.image}}">
+        </div>
+    {{/each}}
+
+</div>

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "loki",
+		"specie": "cruza",
+		"age": "1",
+		"image": "1658496371499-images.jpg",
+		"id": 1,
+		"isAdopted": false
+	},
+	{
+		"name": "loki",
+		"specie": "cruza",
+		"age": "1",
+		"image": "1658496394975-images.jpg",
+		"id": 2,
+		"isAdopted": false
+	},
+	{
+		"name": "pescadito",
+		"specie": "ciquito",
+		"age": "1",
+		"image": "1658498362878-1366_2000.jpg",
+		"id": 3,
+		"isAdopted": false
+	}
+]
