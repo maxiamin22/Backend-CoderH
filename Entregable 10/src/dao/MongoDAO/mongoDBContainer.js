@@ -2,7 +2,7 @@ import mongoose from "mongoose"
 
 export default class MongoDBContainer{
     constructor(collection,schema){
-        mongoose.connect('mongodb+srv://maxiamin11:Belgrano22@cluster0.ztbpmtc.mongodb.net/test')
+        mongoose.connect('mongodb+srv://maxiamin11:Belgrano22/@cluster0.ztbpmtc.mongodb.net/test')
         this.model = mongoose.model(collection,schema)
     }
 
